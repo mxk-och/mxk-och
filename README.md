@@ -15,8 +15,8 @@
 <a href="https://www.linkedin.com/in/erwinlejeune-lkn">
   <img alt="guilyx's LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
 </a>
-<a href="![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31wlpavdt4k3kebejabsv27yuo2u&unique={true|1|on|yes})">
-  <img alt="https://spotify-recently-played-readme.vercel.app/api?user=31wlpavdt4k3kebejabsv27yuo2u&unique={true|1|on|yes})g" />
+<a href="https://spotify-recently-played-readme.vercel.app/api?user=31wlpavdt4k3kebejabsv27yuo2u&unique={true|1|on|yes">
+  <img alt="https://spotify-recently-played-readme.vercel.app/api?user=31wlpavdt4k3kebejabsv27yuo2u&unique={true|1|on|yes" />
 </a>
 <br>
 </p>
